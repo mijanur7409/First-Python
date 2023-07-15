@@ -1,4 +1,2 @@
 # First-Python
-Nothing to say
-
-hhhh
+new class
