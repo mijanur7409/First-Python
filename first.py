@@ -18,5 +18,5 @@ hieght = int(20)
 
 area = 0.5*base*hieght
 
-print(area)
+print(area)jj
 
