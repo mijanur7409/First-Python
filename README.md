@@ -1,2 +1,2 @@
 # First-Python
-new class noo
+new class noo nn
